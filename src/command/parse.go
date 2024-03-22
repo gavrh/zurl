@@ -1,10 +1,19 @@
 package command
 
+import "fmt"
 
 // parse command
-func parse(args []string) {
+func Parse(args []string) {
+  
+  fmt.Printf("%v\n", args)
 
-   
+  for x, s := range args {
+    for y, c := range s {
+      print(c)
+    }
+    println();
+  }
+
 }
 
 // parse headers
