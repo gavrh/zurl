@@ -1,5 +1,5 @@
 # gurl
-![GitHub Release](https://img.shields.io/github/v/release/grhx/gurl?label=v)
+![GitHub Release](https://img.shields.io/github/v/release/gavrh/gurl?label=v)
 
 <img align="right" src="https://static.vecteezy.com/system/resources/previews/017/178/227/original/female-symbol-isolated-icon-on-transparent-background-free-png.png" width="300" />
 
