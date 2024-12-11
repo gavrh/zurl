@@ -1,3 +1,3 @@
-go.sum
-.env
-test
+# zig stuff
+.zig-cache
+zig-out
